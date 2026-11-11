@@ -1,0 +1,46 @@
+{
+  "name": "fixpilot-ai",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "seed": "node --experimental-strip-types lib/db/seed.ts",
+    "test": "vitest run",
+    "test:smoke": "node tests/browser-smoke.mjs",
+    "test:login": "node tests/login-smoke.mjs",
+    "test:basic": "node tests/basic-flow-smoke.mjs",
+    "test:dashboard": "node tests/dashboard-smoke.mjs",
+    "test:safeguards": "node tests/safeguards-smoke.mjs"
+  },
+  "engines": {
+    "node": "24.x"
+  },
+  "dependencies": {
+    "@fontsource-variable/geist": "^5.3.0",
+    "@fontsource/ibm-plex-mono": "^5.3.0",
+    "@vercel/blob": "^2.9.0",
+    "ai": "^7.0.166",
+    "lucide-react": "^0.468.0",
+    "next": "^16.0.0",
+    "postgres": "^4.1.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "web-push": "^4.0.0",
+    "workflow": "^5.4.0",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/web-push": "^3.6.4",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.9.0",
+    "vitest": "^3.2.0"
+  },
+  "type": "module"
+}

@@ -1,0 +1,1105 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="2929" viewBox="0 0 1440 2929"><title>FixPilot AI editable design</title>
+<rect x="0.00" y="0.00" width="1440.00" height="2929.00" rx="0" fill="rgb(12, 14, 17)"/>
+<g id="BODY-1">
+<rect x="0.00" y="0.00" width="1440.00" height="2928.75" rx="0" fill="rgb(12, 14, 17)"/>
+<g id="peek-shell-2">
+<g id="Unpin-sidebar-3">
+<rect x="8.00" y="16.00" width="30.00" height="30.00" rx="5" fill="rgb(35, 29, 49)"/>
+<path d="M8,16 L38,16" fill="none" stroke="rgb(73, 56, 95)" stroke-width="1"/>
+<path d="M8,46 L38,46" fill="none" stroke="rgb(73, 56, 95)" stroke-width="1"/>
+<path d="M8,16 L8,46" fill="none" stroke="rgb(73, 56, 95)" stroke-width="1"/>
+<path d="M38,16 L38,46" fill="none" stroke="rgb(73, 56, 95)" stroke-width="1"/>
+<g id="lucide-4">
+<svg x="15" y="23" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="rgb(196, 172, 245)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 17v5"></path><path d="M15 9.34V7a1 1 0 0 1 1-1 2 2 0 0 0 0-4H7.89"></path><path d="m2 2 20 20"></path><path d="M9 9v1.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 5 15.24V16a1 1 0 0 0 1 1h11"></path></svg>
+</g>
+</g>
+<g id="peek-edge-5">
+</g>
+<g id="app-shell-6">
+<g id="sidebar-7">
+<rect x="0.00" y="0.00" width="214.00" height="1000.00" rx="0" fill="rgb(16, 18, 22)"/>
+<path d="M214,0 L214,1000" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<g id="brand-8">
+<g id="logo-mark-9">
+<rect x="24.00" y="61.00" width="29.00" height="29.00" rx="7" fill="rgb(34, 71, 57)"/>
+<path d="M24,61 L53,61" fill="none" stroke="rgb(136, 219, 192)" stroke-width="1"/>
+<path d="M24,90 L53,90" fill="none" stroke="rgb(136, 219, 192)" stroke-width="1"/>
+<path d="M24,61 L24,90" fill="none" stroke="rgb(136, 219, 192)" stroke-width="1"/>
+<path d="M53,61 L53,90" fill="none" stroke="rgb(136, 219, 192)" stroke-width="1"/>
+<g id="lucide-10">
+<svg x="28.5" y="67" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="rgb(165, 229, 133)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 6v12a3 3 0 1 0 3-3H6a3 3 0 1 0 3 3V6a3 3 0 1 0-3 3h12a3 3 0 1 0-3-3"></path></svg>
+</g>
+</g>
+<text x="61.00" y="81.04" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="22" font-weight="650" fill="rgb(233, 237, 241)">fixpilot</text>
+<g id="SPAN-11">
+<text x="136.58" y="70.56" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="8" font-weight="400" fill="rgb(165, 229, 133)">AI</text>
+</g>
+</g>
+<g id="ops-workspace-12">
+<g id="STRONG-13">
+<text x="23.00" y="132.02" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="700" fill="rgb(233, 237, 241)">APU · Service intelligence</text>
+</g>
+<g id="SMALL-14">
+<text x="23.00" y="154.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(137, 149, 164)">Staff workspace</text>
+</g>
+</g>
+<g id="nav-label-15">
+<text x="27.00" y="197.06" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="8" font-weight="400" fill="rgb(108, 117, 128)">INCIDENT INTELLIGENCE</text>
+</g>
+<g id="NAV-16">
+<g id="nav-item-17">
+<rect x="15.00" y="212.50" width="183.00" height="41.00" rx="5" fill="rgb(43, 34, 62)"/>
+<path d="M15,212.5 L198,212.5" fill="none" stroke="rgb(73, 54, 94)" stroke-width="1"/>
+<path d="M15,253.5 L198,253.5" fill="none" stroke="rgb(73, 54, 94)" stroke-width="1"/>
+<path d="M15,212.5 L15,253.5" fill="none" stroke="rgb(73, 54, 94)" stroke-width="1"/>
+<path d="M198,212.5 L198,253.5" fill="none" stroke="rgb(73, 54, 94)" stroke-width="1"/>
+<g id="lucide-18">
+<svg x="28" y="224.5" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="rgb(195, 168, 255)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="7" height="9" x="3" y="3" rx="1"></rect><rect width="7" height="5" x="14" y="3" rx="1"></rect><rect width="7" height="9" x="14" y="12" rx="1"></rect><rect width="7" height="5" x="3" y="16" rx="1"></rect></svg>
+</g>
+<g id="SPAN-19">
+<text x="56.00" y="234.77" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(195, 168, 255)">Command center</text>
+</g>
+</g>
+<g id="nav-item-20">
+<path d="M15,257.5 L198,257.5" fill="none" stroke="rgba(0, 0, 0, 0)" stroke-width="1"/>
+<path d="M15,298.5 L198,298.5" fill="none" stroke="rgba(0, 0, 0, 0)" stroke-width="1"/>
+<path d="M15,257.5 L15,298.5" fill="none" stroke="rgba(0, 0, 0, 0)" stroke-width="1"/>
+<path d="M198,257.5 L198,298.5" fill="none" stroke="rgba(0, 0, 0, 0)" stroke-width="1"/>
+<g id="lucide-21">
+<svg x="28" y="269.5" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="rgb(143, 152, 164)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z"></path><path d="M13 5v2"></path><path d="M13 17v2"></path><path d="M13 11v2"></path></svg>
+</g>
+<g id="SPAN-22">
+<text x="56.00" y="279.77" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(143, 152, 164)">My reports</text>
+</g>
+</g>
+<g id="nav-item-23">
+<path d="M15,302.5 L198,302.5" fill="none" stroke="rgba(0, 0, 0, 0)" stroke-width="1"/>
+<path d="M15,343.5 L198,343.5" fill="none" stroke="rgba(0, 0, 0, 0)" stroke-width="1"/>
+<path d="M15,302.5 L15,343.5" fill="none" stroke="rgba(0, 0, 0, 0)" stroke-width="1"/>
+<path d="M198,302.5 L198,343.5" fill="none" stroke="rgba(0, 0, 0, 0)" stroke-width="1"/>
+<g id="lucide-24">
+<svg x="28" y="314.5" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="rgb(143, 152, 164)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.268 21a2 2 0 0 0 3.464 0"></path><path d="M3.262 15.326A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673C19.41 13.956 18 12.499 18 8A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.738 7.326"></path></svg>
+</g>
+<g id="SPAN-25">
+<text x="56.00" y="324.77" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(143, 152, 164)">Shared updates</text>
+</g>
+</g>
+<g id="nav-item-26">
+<g id="lucide-27">
+<svg x="27" y="358.5" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="rgb(143, 152, 164)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"></path><path d="m9 12 2 2 4-4"></path></svg>
+</g>
+<text x="55.00" y="368.52" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(143, 152, 164)">Evidence workspace</text>
+<g id="lucide-28">
+<svg x="169.3125" y="358.5" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="rgb(143, 152, 164)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"></path><path d="M7 17 17 7"></path></svg>
+</g>
+</g>
+</g>
+<g id="sidebar-bottom-29">
+<g id="integration-card-30">
+<path d="M15,755.3125 L198,755.3125" fill="none" stroke="rgb(42, 48, 54)" stroke-width="1"/>
+<path d="M15,912.5 L198,912.5" fill="none" stroke="rgb(42, 48, 54)" stroke-width="1"/>
+<path d="M15,755.3125 L15,912.5" fill="none" stroke="rgb(42, 48, 54)" stroke-width="1"/>
+<path d="M198,755.3125 L198,912.5" fill="none" stroke="rgb(42, 48, 54)" stroke-width="1"/>
+<g id="DIV-31">
+<g id="lucide-32">
+<svg x="28" y="769.8125" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="rgb(150, 162, 168)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4.9 19.1C1 15.2 1 8.8 4.9 4.9"></path><path d="M7.8 16.2c-2.3-2.3-2.3-6.1 0-8.5"></path><circle cx="12" cy="12" r="2"></circle><path d="M16.2 7.8c2.3 2.3 2.3 6.1 0 8.5"></path><path d="M19.1 4.9C23 8.8 23 15.1 19.1 19"></path></svg>
+</g>
+<text x="49.00" y="778.51" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(150, 162, 168)">CONNECTED WORKSPACE</text>
+<g id="green-dot-33">
+<rect x="180.00" y="774.31" width="5.00" height="5.00" rx="50" fill="rgb(165, 229, 133)"/>
+</g>
+</g>
+<g id="STRONG-34">
+<text x="28.00" y="809.33" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="500" fill="rgb(233, 237, 241)">Persistent coordination</text>
+</g>
+<g id="SMALL-35">
+<text x="28.00" y="833.01" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(119, 134, 141)">In-app updates · 5s refresh</text>
+</g>
+<g id="integration-note-36">
+<path d="M28,853.3125 L185,853.3125" fill="none" stroke="rgb(42, 48, 54)" stroke-width="1"/>
+<text x="28.00" y="873.69" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(116, 128, 137)">Gemini: reviewed handoff</text>
+<text x="28.00" y="890.79" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(116, 128, 137)">Jira: sandbox setup required</text>
+</g>
+</g>
+<g id="Sign-out-37">
+<path d="M15,931.5 L198,931.5" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M15,1000 L198,1000" fill="none" stroke="rgba(0, 0, 0, 0)" stroke-width="1"/>
+<path d="M15,931.5 L15,1000" fill="none" stroke="rgba(0, 0, 0, 0)" stroke-width="1"/>
+<path d="M198,931.5 L198,1000" fill="none" stroke="rgba(0, 0, 0, 0)" stroke-width="1"/>
+<g id="avatar-38">
+<rect x="16.00" y="951.25" width="29.00" height="29.00" rx="50" fill="rgb(51, 50, 66)"/>
+<path d="M16,951.25 L45,951.25" fill="none" stroke="rgb(69, 65, 83)" stroke-width="1"/>
+<path d="M16,980.25 L45,980.25" fill="none" stroke="rgb(69, 65, 83)" stroke-width="1"/>
+<path d="M16,951.25 L16,980.25" fill="none" stroke="rgb(69, 65, 83)" stroke-width="1"/>
+<path d="M45,951.25 L45,980.25" fill="none" stroke="rgb(69, 65, 83)" stroke-width="1"/>
+<text x="23.63" y="966.38" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(195, 187, 213)">AM</text>
+</g>
+<g id="SPAN-39">
+<text x="54.00" y="958.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(203, 208, 214)">Alex Morgan</text>
+<g id="SMALL-40">
+<text x="54.00" y="975.88" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(140, 148, 158)">operator</text>
+</g>
+</g>
+<g id="lucide-41">
+<svg x="183" y="958.75" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="rgb(116, 129, 139)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" x2="9" y1="12" y2="12"></line></svg>
+</g>
+</g>
+</g>
+</g>
+<g id="main-shell-42">
+<g id="topbar-43">
+<rect x="214.00" y="0.00" width="1226.00" height="59.00" rx="0" fill="rgb(16, 18, 22)"/>
+<path d="M214,59 L1440,59" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<g id="DIV-44">
+<text x="266.00" y="30.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(147, 156, 166)">Workspace</text>
+<g id="lucide-45">
+<svg x="332.09375" y="23" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="rgb(147, 156, 166)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
+</g>
+<text x="359.09" y="30.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(147, 156, 166)">Staff</text>
+<text x="381.28" y="30.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(147, 156, 166)"> /</text>
+<text x="391.09" y="30.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(147, 156, 166)">Command center</text>
+</g>
+<g id="DIV-46">
+<g id="top-lab-47">
+<g id="I-48">
+<rect x="1236.72" y="26.50" width="5.00" height="5.00" rx="50" fill="rgb(165, 229, 133)"/>
+</g>
+<text x="1248.72" y="29.63" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(147, 156, 166)">Controlled demo · fictional seed reports</text>
+</g>
+</g>
+</g>
+<g id="content-49">
+<g id="page-heading-50">
+<g id="DIV-51">
+<g id="eyebrow-52">
+<text x="244.00" y="97.38" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(125, 137, 150)">FIXPILOT / INCIDENT INTELLIGENCE</text>
+</g>
+<g id="H1-53">
+<text x="244.00" y="135.60" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="30" font-weight="550" fill="rgb(233, 237, 241)">Command center</text>
+<g id="title-dot-54">
+<rect x="485.66" y="130.00" width="6.00" height="6.00" rx="50" fill="rgb(144, 223, 185)"/>
+</g>
+</g>
+<g id="P-55">
+<text x="244.00" y="169.52" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(140, 148, 158)">Many reports. One investigation. A shared path to recovery.</text>
+</g>
+</g>
+<g id="ops-heading-actions-56">
+<g id="primary-57">
+<rect x="1278.22" y="115.50" width="131.78" height="35.00" rx="7" fill="rgb(112, 80, 210)"/>
+<path d="M1278.21875,115.5 L1410,115.5" fill="none" stroke="rgb(137, 104, 233)" stroke-width="1"/>
+<path d="M1278.21875,150.5 L1410,150.5" fill="none" stroke="rgb(137, 104, 233)" stroke-width="1"/>
+<path d="M1278.21875,115.5 L1278.21875,150.5" fill="none" stroke="rgb(137, 104, 233)" stroke-width="1"/>
+<path d="M1410,115.5 L1410,150.5" fill="none" stroke="rgb(137, 104, 233)" stroke-width="1"/>
+<g id="lucide-58">
+<svg x="1292.21875" y="125.5" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="rgb(255, 255, 255)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"></path><path d="M12 5v14"></path></svg>
+</g>
+<text x="1315.22" y="134.77" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="550" fill="rgb(255, 255, 255)">Report an issue</text>
+</g>
+</g>
+</g>
+<g id="metrics-59">
+<rect x="244.00" y="203.00" width="1166.00" height="138.50" rx="7" fill="rgb(48, 48, 60)"/>
+<path d="M244,203 L1410,203" fill="none" stroke="rgb(48, 48, 60)" stroke-width="1"/>
+<path d="M244,341.5 L1410,341.5" fill="none" stroke="rgb(48, 48, 60)" stroke-width="1"/>
+<path d="M244,203 L244,341.5" fill="none" stroke="rgb(48, 48, 60)" stroke-width="1"/>
+<path d="M1410,203 L1410,341.5" fill="none" stroke="rgb(48, 48, 60)" stroke-width="1"/>
+<g id="metric-alert-60">
+<rect x="245.00" y="204.00" width="290.25" height="136.50" rx="0" fill="rgb(21, 22, 28)"/>
+<g id="SPAN-61">
+<text x="264.00" y="231.02" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(180, 180, 192)">Open incidents</text>
+<g id="lucide-62">
+<svg x="501.25" y="221.75" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="rgb(255, 152, 127)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35 8.36a.25.25 0 0 1-.48 0L9.24 2.18a.25.25 0 0 0-.48 0l-2.35 8.36A2 2 0 0 1 4.49 12H2"></path></svg>
+</g>
+</g>
+<g id="STRONG-63">
+<text x="264.00" y="280.74" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="32" font-weight="500" fill="rgb(255, 152, 127)">3</text>
+<g id="SMALL-64">
+<text x="264.00" y="317.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(239, 182, 149)">0</text>
+<text x="270.64" y="317.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(239, 182, 149)"> resolved</text>
+</g>
+</g>
+</g>
+<g id="metric-incoming-65">
+<rect x="536.25" y="204.00" width="290.25" height="136.50" rx="0" fill="rgb(21, 22, 28)"/>
+<g id="SPAN-66">
+<text x="555.25" y="231.02" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(180, 180, 192)">Incident compression</text>
+<g id="lucide-67">
+<svg x="792.5" y="221.75" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="rgb(136, 177, 255)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="18" r="3"></circle><circle cx="6" cy="6" r="3"></circle><path d="M6 21V9a9 9 0 0 0 9 9"></path></svg>
+</g>
+</g>
+<g id="STRONG-68">
+<text x="555.25" y="280.74" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="32" font-weight="500" fill="rgb(136, 177, 255)">66.7</text>
+<text x="612.19" y="280.74" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="32" font-weight="500" fill="rgb(136, 177, 255)">%</text>
+<g id="SMALL-69">
+<text x="555.25" y="317.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(171, 169, 184)">9</text>
+<text x="561.19" y="317.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(171, 169, 184)"> reports → </text>
+<text x="611.33" y="317.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(171, 169, 184)">3</text>
+<text x="617.47" y="317.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(171, 169, 184)"> incidents</text>
+</g>
+</g>
+</g>
+<g id="metric-linked-70">
+<rect x="827.50" y="204.00" width="290.25" height="136.50" rx="0" fill="rgb(21, 22, 28)"/>
+<g id="SPAN-71">
+<text x="846.50" y="231.02" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(180, 180, 192)">Reported impact</text>
+<g id="lucide-72">
+<svg x="1083.75" y="221.75" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="rgb(115, 217, 220)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M22 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+</g>
+</g>
+<g id="STRONG-73">
+<text x="846.50" y="280.74" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="32" font-weight="500" fill="rgb(115, 217, 220)">9</text>
+<g id="SMALL-74">
+<text x="846.50" y="317.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(138, 191, 196)">Unique reporters · not estimated reach</text>
+</g>
+</g>
+</g>
+<g id="metric-recovery-75">
+<rect x="1118.75" y="204.00" width="290.25" height="136.50" rx="0" fill="rgb(21, 22, 28)"/>
+<g id="SPAN-76">
+<text x="1137.75" y="231.02" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(180, 180, 192)">Average resolution</text>
+<g id="lucide-77">
+<svg x="1375" y="221.75" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="rgb(242, 197, 115)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"></path><path d="m9 12 2 2 4-4"></path></svg>
+</g>
+</g>
+<g id="STRONG-78">
+<text x="1137.75" y="280.74" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="32" font-weight="500" fill="rgb(242, 197, 115)">—</text>
+<g id="SMALL-79">
+<text x="1137.75" y="317.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(171, 169, 184)">No resolved cases yet</text>
+</g>
+</g>
+</g>
+</g>
+<g id="ops-value-80">
+<path d="M244,367.5 L1410,367.5" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M244,512 L1410,512" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M244,367.5 L244,512" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M1410,367.5 L1410,512" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<g id="DIV-81">
+<g id="eyebrow-82">
+<text x="270.00" y="414.88" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(125, 137, 150)">WHAT CHANGED?</text>
+</g>
+<g id="H2-83">
+<text x="270.00" y="438.58" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="19" font-weight="550" fill="rgb(233, 237, 241)">Less repetition. More coordination.</text>
+</g>
+<g id="P-84">
+<text x="270.00" y="470.52" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(140, 153, 167)">Actual workspace counts include the labeled demo fixtures.</text>
+</g>
+</g>
+<g id="before-85">
+<g id="SMALL-86">
+<text x="1045.94" y="406.06" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="8" font-weight="400" fill="rgb(163, 142, 198)">FRAGMENTED INTAKE</text>
+</g>
+<g id="STRONG-87">
+<text x="1045.94" y="443.50" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="25" font-weight="700" fill="rgb(233, 237, 241)">9</text>
+<text x="1061.72" y="443.50" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="25" font-weight="700" fill="rgb(233, 237, 241)"> reports</text>
+</g>
+<g id="SPAN-88">
+<text x="1045.94" y="478.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(135, 150, 164)">Separate submissions</text>
+</g>
+</g>
+<g id="lucide-89">
+<svg x="1187.59375" y="428.75" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="rgb(140, 148, 158)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
+</g>
+<g id="after-90">
+<g id="SMALL-91">
+<text x="1239.59" y="406.06" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="8" font-weight="400" fill="rgb(163, 142, 198)">SHARED INVESTIGATION</text>
+</g>
+<g id="STRONG-92">
+<text x="1239.59" y="443.50" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="25" font-weight="700" fill="rgb(188, 161, 250)">3</text>
+<text x="1255.86" y="443.50" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="25" font-weight="700" fill="rgb(188, 161, 250)"> incidents</text>
+</g>
+<g id="SPAN-93">
+<text x="1239.59" y="478.70" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(135, 150, 164)">One update stream per incident</text>
+</g>
+</g>
+</g>
+<g id="ops-grid-94">
+<g id="panel-95">
+<rect x="244.00" y="536.00" width="310.00" height="554.67" rx="7" fill="rgb(18, 21, 25)"/>
+<path d="M244,536 L554,536" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M244,1090.671875 L554,1090.671875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M244,536 L244,1090.671875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M554,536 L554,1090.671875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<g id="panel-heading-96">
+<path d="M245,590 L553,590" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<g id="H2-97">
+<text x="263.00" y="564.77" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="550" fill="rgb(233, 237, 241)">Live incident queue</text>
+</g>
+<g id="badge-98">
+<rect x="483.88" y="553.00" width="51.13" height="20.00" rx="4" fill="rgb(26, 33, 36)"/>
+<path d="M483.875,553 L535,553" fill="none" stroke="rgb(48, 56, 60)" stroke-width="1"/>
+<path d="M483.875,573 L535,573" fill="none" stroke="rgb(48, 56, 60)" stroke-width="1"/>
+<path d="M483.875,553 L483.875,573" fill="none" stroke="rgb(48, 56, 60)" stroke-width="1"/>
+<path d="M535,553 L535,573" fill="none" stroke="rgb(48, 56, 60)" stroke-width="1"/>
+<text x="490.88" y="564.56" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="8" font-weight="400" fill="rgb(159, 180, 182)">3</text>
+<text x="496.19" y="564.56" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="8" font-weight="400" fill="rgb(159, 180, 182)"> CASES</text>
+</g>
+</g>
+<g id="search-99">
+<path d="M245,641.5 L553,641.5" fill="none" stroke="rgb(42, 48, 55)" stroke-width="1"/>
+<g id="lucide-100">
+<svg x="262" y="608.25" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="rgb(115, 127, 137)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.3-4.3"></path></svg>
+</g>
+<g id="Search-incidents-101">
+<text x="295.00" y="615.50" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(233, 237, 241)">Service, team or location…</text>
+</g>
+</g>
+<g id="ops-case-102">
+<rect x="245.00" y="641.50" width="308.00" height="149.39" rx="0" fill="rgb(36, 29, 50)"/>
+<path d="M245,790.890625 L553,790.890625" fill="none" stroke="rgb(41, 48, 57)" stroke-width="1"/>
+<g id="DIV-103">
+<g id="mono-104">
+<text x="265.00" y="672.95" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="10" font-weight="400" fill="rgb(134, 149, 165)">INC-18A82E</text>
+</g>
+<g id="ops-severity-105">
+<rect x="487.97" y="661.50" width="45.03" height="19.50" rx="3" fill="rgb(57, 48, 35)"/>
+<text x="493.97" y="671.88" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(232, 189, 124)">Medium</text>
+</g>
+</g>
+<g id="H3-106">
+<text x="265.00" y="707.48" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="14" font-weight="550" fill="rgb(197, 206, 215)">WiFi disruption · Block B</text>
+</g>
+<g id="P-107">
+<text x="265.00" y="732.59" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(163, 151, 183)">Network Operations</text>
+</g>
+<g id="DIV-108">
+<g id="SPAN-109">
+<text x="265.00" y="763.77" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(134, 149, 165)">1</text>
+<text x="268.47" y="763.77" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(134, 149, 165)"> reports · </text>
+<text x="306.41" y="763.77" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(134, 149, 165)">1</text>
+<text x="309.88" y="763.77" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(134, 149, 165)"> reporters</text>
+</g>
+<g id="amber-110">
+<text x="480.19" y="763.77" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(233, 183, 108)">Investigating</text>
+</g>
+</g>
+</g>
+<g id="ops-case-111">
+<path d="M245,940.28125 L553,940.28125" fill="none" stroke="rgb(41, 48, 57)" stroke-width="1"/>
+<g id="DIV-112">
+<g id="mono-113">
+<text x="265.00" y="822.34" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="10" font-weight="400" fill="rgb(134, 149, 165)">INC-1779C8</text>
+</g>
+<g id="ops-severity-114">
+<rect x="487.97" y="810.89" width="45.03" height="19.50" rx="3" fill="rgb(57, 48, 35)"/>
+<text x="493.97" y="821.27" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(232, 189, 124)">Medium</text>
+</g>
+</g>
+<g id="H3-115">
+<text x="265.00" y="856.87" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="14" font-weight="550" fill="rgb(197, 206, 215)">Identity disruption · Block A</text>
+</g>
+<g id="P-116">
+<text x="265.00" y="881.98" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(163, 151, 183)">Identity &amp; Access</text>
+</g>
+<g id="DIV-117">
+<g id="SPAN-118">
+<text x="265.00" y="913.16" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(134, 149, 165)">1</text>
+<text x="268.47" y="913.16" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(134, 149, 165)"> reports · </text>
+<text x="306.41" y="913.16" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(134, 149, 165)">1</text>
+<text x="309.88" y="913.16" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(134, 149, 165)"> reporters</text>
+</g>
+<g id="amber-119">
+<text x="480.19" y="913.16" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(233, 183, 108)">Investigating</text>
+</g>
+</g>
+</g>
+<g id="ops-case-120">
+<path d="M245,1089.671875 L553,1089.671875" fill="none" stroke="rgb(41, 48, 57)" stroke-width="1"/>
+<path d="M245,940.28125 L245,1089.671875" fill="none" stroke="rgb(197, 206, 215)" stroke-width="2"/>
+<g id="DIV-121">
+<g id="mono-122">
+<text x="267.00" y="971.73" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="10" font-weight="400" fill="rgb(134, 149, 165)">INC-D7FB6B</text>
+</g>
+<g id="ops-severity-123">
+<rect x="502.20" y="960.28" width="30.80" height="19.50" rx="3" fill="rgb(64, 38, 37)"/>
+<text x="508.20" y="970.66" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(255, 171, 146)">High</text>
+</g>
+</g>
+<g id="H3-124">
+<text x="267.00" y="1006.26" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="14" font-weight="550" fill="rgb(197, 206, 215)">WiFi disruption · Block A</text>
+</g>
+<g id="P-125">
+<text x="267.00" y="1031.37" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(163, 151, 183)">Network Operations</text>
+</g>
+<g id="DIV-126">
+<g id="SPAN-127">
+<text x="267.00" y="1062.55" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(134, 149, 165)">7</text>
+<text x="271.72" y="1062.55" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(134, 149, 165)"> reports · </text>
+<text x="309.66" y="1062.55" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(134, 149, 165)">7</text>
+<text x="314.38" y="1062.55" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(134, 149, 165)"> reporters</text>
+</g>
+<g id="amber-128">
+<text x="480.19" y="1062.55" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(233, 183, 108)">Investigating</text>
+</g>
+</g>
+</g>
+</g>
+<g id="panel-129">
+<rect x="576.00" y="536.00" width="834.00" height="2292.75" rx="7" fill="rgb(18, 21, 25)"/>
+<path d="M576,536 L1410,536" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M576,2828.75 L1410,2828.75" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M576,536 L576,2828.75" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M1410,536 L1410,2828.75" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<g id="panel-heading-130">
+<path d="M577,593.5 L1409,593.5" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<g id="mono-131">
+<text x="595.00" y="566.45" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="10" font-weight="400" fill="rgb(78, 219, 208)">INC-D7FB6B</text>
+</g>
+<g id="status-132">
+<rect x="1313.19" y="553.00" width="77.81" height="23.50" rx="4" fill="rgb(53, 42, 30)"/>
+<path d="M1313.1875,553 L1391,553" fill="none" stroke="rgb(92, 71, 46)" stroke-width="1"/>
+<path d="M1313.1875,576.5 L1391,576.5" fill="none" stroke="rgb(92, 71, 46)" stroke-width="1"/>
+<path d="M1313.1875,553 L1313.1875,576.5" fill="none" stroke="rgb(92, 71, 46)" stroke-width="1"/>
+<path d="M1391,553 L1391,576.5" fill="none" stroke="rgb(92, 71, 46)" stroke-width="1"/>
+<g id="I-133">
+<rect x="1321.19" y="562.75" width="4.00" height="4.00" rx="50" fill="rgb(233, 183, 108)"/>
+</g>
+<text x="1330.19" y="565.38" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(237, 191, 132)">Investigating</text>
+</g>
+</g>
+<g id="ops-detail-body-134">
+<g id="H2-135">
+<text x="601.00" y="638.36" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="23" font-weight="550" fill="rgb(233, 237, 241)">WiFi disruption · Block A</text>
+</g>
+<g id="muted-136">
+<text x="601.00" y="673.02" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(140, 148, 158)">Network Operations</text>
+<text x="701.86" y="673.02" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(140, 148, 158)"> · </text>
+<text x="709.58" y="673.02" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(140, 148, 158)">Block A</text>
+<text x="748.50" y="673.02" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(140, 148, 158)"> · Started </text>
+<text x="796.33" y="673.02" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(140, 148, 158)">03:45</text>
+<text x="827.06" y="673.02" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(140, 148, 158)"> MYT</text>
+</g>
+<g id="ops-impact-137">
+<path d="M601,704.796875 L1385,704.796875" fill="none" stroke="rgb(48, 49, 62)" stroke-width="1"/>
+<path d="M601,798.796875 L1385,798.796875" fill="none" stroke="rgb(48, 49, 62)" stroke-width="1"/>
+<g id="DIV-138">
+<g id="SMALL-139">
+<text x="601.00" y="738.36" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="8" font-weight="400" fill="rgb(145, 148, 165)">AFFECTED</text>
+</g>
+<g id="STRONG-140">
+<text x="601.00" y="768.60" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="15" font-weight="450" fill="rgb(233, 237, 241)">7</text>
+<text x="608.91" y="768.60" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="15" font-weight="450" fill="rgb(233, 237, 241)"> reporters</text>
+</g>
+</g>
+<g id="DIV-141">
+<g id="SMALL-142">
+<text x="867.33" y="738.36" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="8" font-weight="400" fill="rgb(145, 148, 165)">OWNER</text>
+</g>
+<g id="STRONG-143">
+<text x="867.33" y="768.60" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="15" font-weight="450" fill="rgb(233, 237, 241)">operator</text>
+</g>
+</g>
+<g id="DIV-144">
+<g id="SMALL-145">
+<text x="1133.66" y="738.36" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="8" font-weight="400" fill="rgb(145, 148, 165)">ETA</text>
+</g>
+<g id="STRONG-146">
+<text x="1133.66" y="768.60" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="15" font-weight="450" fill="rgb(233, 237, 241)">15 minutes</text>
+</g>
+</g>
+</g>
+<g id="ops-section-title-147">
+<text x="601.00" y="836.64" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="550" fill="rgb(233, 237, 241)">Evidence board</text>
+</g>
+<g id="ops-evidence-148">
+<rect x="601.00" y="859.80" width="784.00" height="179.00" rx="5" fill="rgb(21, 26, 32)"/>
+<path d="M601,859.796875 L1385,859.796875" fill="none" stroke="rgb(45, 56, 66)" stroke-width="1"/>
+<path d="M601,1038.796875 L1385,1038.796875" fill="none" stroke="rgb(45, 56, 66)" stroke-width="1"/>
+<path d="M601,859.796875 L601,1038.796875" fill="none" stroke="rgb(45, 56, 66)" stroke-width="1"/>
+<path d="M1385,859.796875 L1385,1038.796875" fill="none" stroke="rgb(45, 56, 66)" stroke-width="1"/>
+<g id="DIV-149">
+<path d="M616,908.296875 L1370,908.296875" fill="none" stroke="rgb(42, 49, 56)" stroke-width="1"/>
+<g id="lucide-150">
+<svg x="616" y="879.546875" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="rgb(125, 175, 169)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="m9 12 2 2 4-4"></path></svg>
+</g>
+<g id="SPAN-151">
+<text x="640.00" y="888.82" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(171, 185, 198)">7</text>
+<text x="645.77" y="888.82" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(171, 185, 198)"> original reports linked</text>
+</g>
+<g id="SMALL-152">
+<text x="1330.58" y="887.68" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(136, 151, 166)">Recorded</text>
+</g>
+</g>
+<g id="DIV-153">
+<path d="M616,949.796875 L1370,949.796875" fill="none" stroke="rgb(42, 49, 56)" stroke-width="1"/>
+<g id="lucide-154">
+<svg x="616" y="921.046875" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="rgb(125, 175, 169)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="m9 12 2 2 4-4"></path></svg>
+</g>
+<g id="SPAN-155">
+<text x="640.00" y="930.32" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(171, 185, 198)">Service + symptom + location + timeframe</text>
+</g>
+<g id="SMALL-156">
+<text x="1346.88" y="929.18" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(136, 151, 166)">Rules</text>
+</g>
+</g>
+<g id="DIV-157">
+<path d="M616,991.296875 L1370,991.296875" fill="none" stroke="rgb(42, 49, 56)" stroke-width="1"/>
+<g id="lucide-158">
+<svg x="616" y="962.546875" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="rgb(125, 175, 169)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path><path d="M14 2v4a2 2 0 0 0 2 2h4"></path><path d="M10 9H8"></path><path d="M16 13H8"></path><path d="M16 17H8"></path></svg>
+</g>
+<g id="SPAN-159">
+<text x="640.00" y="971.82" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(171, 185, 198)">Similar historical incidents</text>
+</g>
+<g id="SMALL-160">
+<text x="1309.38" y="970.68" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(136, 151, 166)">Not connected</text>
+</g>
+</g>
+<g id="DIV-161">
+<g id="lucide-162">
+<svg x="616" y="1004.046875" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="rgb(125, 175, 169)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4.9 19.1C1 15.2 1 8.8 4.9 4.9"></path><path d="M7.8 16.2c-2.3-2.3-2.3-6.1 0-8.5"></path><circle cx="12" cy="12" r="2"></circle><path d="M16.2 7.8c2.3 2.3 2.3 6.1 0 8.5"></path><path d="M19.1 4.9C23 8.8 23 15.1 19.1 19"></path></svg>
+</g>
+<g id="SPAN-163">
+<text x="640.00" y="1013.32" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(171, 185, 198)">Monitoring and diagnostic logs</text>
+</g>
+<g id="SMALL-164">
+<text x="1298.59" y="1012.18" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(136, 151, 166)">Evidence missing</text>
+</g>
+</g>
+</g>
+<g id="ops-disclosure-165">
+<text x="601.00" y="1065.00" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(130, 144, 159)">Grouping uses deterministic rules. AI cause, confidence, diagnosis accuracy and hours saved are unmeasured—not invented. Gemini findings and cited originals remain in</text>
+<text x="601.00" y="1084.00" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(130, 144, 159)">the evidence workspace.</text>
+</g>
+<g id="ops-analysis-166">
+<g id="secondary-167">
+<rect x="601.00" y="1106.80" width="784.00" height="35.00" rx="7" fill="rgb(36, 30, 53)"/>
+<text x="614.00" y="1124.82" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="550" fill="rgb(212, 197, 250)">Investigation handoff &amp; cited findings</text>
+</g>
+<g id="ops-disclosure-168">
+<text x="601.00" y="1178.00" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(130, 144, 159)">Export current source excerpts for the read-only Gemini Enterprise workflow. Import reviewed JSON with observations, hypotheses, nextCheck, bundleId and runReference.</text>
+<text x="601.00" y="1197.00" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(130, 144, 159)">Each finding must cite original report IDs in evidenceIds. No model text can supply monitoring evidence.</text>
+</g>
+<g id="secondary-169">
+<rect x="601.00" y="1229.80" width="139.48" height="35.00" rx="7" fill="rgb(36, 30, 53)"/>
+<path d="M601,1229.796875 L740.484375,1229.796875" fill="none" stroke="rgb(73, 54, 99)" stroke-width="1"/>
+<path d="M601,1264.796875 L740.484375,1264.796875" fill="none" stroke="rgb(73, 54, 99)" stroke-width="1"/>
+<path d="M601,1229.796875 L601,1264.796875" fill="none" stroke="rgb(73, 54, 99)" stroke-width="1"/>
+<path d="M740.484375,1229.796875 L740.484375,1264.796875" fill="none" stroke="rgb(73, 54, 99)" stroke-width="1"/>
+<text x="615.00" y="1249.07" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="550" fill="rgb(212, 197, 250)">Export case evidence</text>
+</g>
+<g id="FORM-170">
+<g id="LABEL-171">
+<text x="601.00" y="1293.64" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(233, 237, 241)">Analysis source</text>
+<g id="SELECT-172">
+<rect x="601.00" y="1308.80" width="784.00" height="40.00" rx="5" fill="rgb(13, 16, 19)"/>
+<path d="M601,1308.796875 L1385,1308.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M601,1348.796875 L1385,1348.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M601,1308.796875 L601,1348.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M1385,1308.796875 L1385,1348.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<text x="613.00" y="1332.80" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(233, 237, 241)">Enterprise manual import</text>
+</g>
+</g>
+<g id="LABEL-173">
+<text x="601.00" y="1377.64" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(233, 237, 241)">Reviewed JSON</text>
+<g id="TEXTAREA-174">
+<rect x="601.00" y="1392.80" width="784.00" height="109.97" rx="5" fill="rgb(13, 16, 19)"/>
+<path d="M601,1392.796875 L1385,1392.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M601,1502.765625 L1385,1502.765625" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M601,1392.796875 L601,1502.765625" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M1385,1392.796875 L1385,1502.765625" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<text x="613.00" y="1415.80" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="11" font-weight="400" fill="rgb(233, 237, 241)">{&quot;bundleId&quot;:&quot;…&quot;,&quot;observations&quot;:[{&quot;text&quot;:&quot;…&quot;,&quot;evidenceIds&quot;:[&quot;R-…&quot;]}],&quot;hypotheses&quot;:[],&quot;nextCheck&quot;:&quot;…&quot;}</text>
+</g>
+</g>
+<g id="primary-175">
+<rect x="601.00" y="1525.77" width="117.20" height="35.00" rx="7" fill="rgb(112, 80, 210)"/>
+<path d="M601,1525.765625 L718.203125,1525.765625" fill="none" stroke="rgb(137, 104, 233)" stroke-width="1"/>
+<path d="M601,1560.765625 L718.203125,1560.765625" fill="none" stroke="rgb(137, 104, 233)" stroke-width="1"/>
+<path d="M601,1525.765625 L601,1560.765625" fill="none" stroke="rgb(137, 104, 233)" stroke-width="1"/>
+<path d="M718.203125,1525.765625 L718.203125,1560.765625" fill="none" stroke="rgb(137, 104, 233)" stroke-width="1"/>
+<text x="615.00" y="1545.04" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="550" fill="rgb(255, 255, 255)">Validate &amp; import</text>
+</g>
+</g>
+</g>
+<g id="ops-section-title-176">
+<text x="601.00" y="1179.64" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="550" fill="rgb(233, 237, 241)">Recovery validation</text>
+</g>
+<g id="ops-checks-177">
+<g id="DIV-178">
+<g id="amber-179">
+<text x="601.00" y="1212.82" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(233, 183, 108)">○</text>
+</g>
+<text x="616.66" y="1212.82" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(170, 182, 195)">Monitoring / two fresh query checks</text>
+<g id="SMALL-180">
+<text x="1350.63" y="1212.75" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(134, 147, 159)">Waiting</text>
+</g>
+</g>
+<g id="DIV-181">
+<g id="amber-182">
+<text x="601.00" y="1241.32" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(233, 183, 108)">○</text>
+</g>
+<text x="616.66" y="1241.32" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(170, 182, 195)">Affected-user confirmation</text>
+<g id="SMALL-183">
+<text x="1350.63" y="1241.25" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(134, 147, 159)">Waiting</text>
+</g>
+</g>
+<g id="DIV-184">
+<g id="green-185">
+<text x="601.00" y="1269.82" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(165, 229, 133)">✓</text>
+</g>
+<text x="619.22" y="1269.82" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(170, 182, 195)">No new complaints for 5 minutes</text>
+<g id="SMALL-186">
+<text x="1345.13" y="1269.75" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(134, 147, 159)">Satisfied</text>
+</g>
+</g>
+</g>
+<g id="ops-update-187">
+<path d="M601,1301.296875 L1385,1301.296875" fill="none" stroke="rgb(45, 51, 61)" stroke-width="1"/>
+<g id="ops-section-title-188">
+<text x="601.00" y="1340.14" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="550" fill="rgb(233, 237, 241)">Coordinate &amp; publish an update</text>
+</g>
+<g id="ops-form-grid-189">
+<g id="LABEL-190">
+<text x="601.00" y="1391.32" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(166, 179, 194)">Status</text>
+<g id="SELECT-191">
+<rect x="601.00" y="1405.80" width="383.00" height="40.00" rx="5" fill="rgb(13, 16, 19)"/>
+<path d="M601,1405.796875 L984,1405.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M601,1445.796875 L984,1445.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M601,1405.796875 L601,1445.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M984,1405.796875 L984,1445.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<text x="613.00" y="1429.80" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(233, 237, 241)">Investigating</text>
+</g>
+</g>
+<g id="LABEL-192">
+<text x="1002.00" y="1391.32" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(166, 179, 194)">ETA (minutes)</text>
+<g id="INPUT-193">
+<rect x="1002.00" y="1405.80" width="383.00" height="40.00" rx="5" fill="rgb(13, 16, 19)"/>
+<path d="M1002,1405.796875 L1385,1405.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M1002,1445.796875 L1385,1445.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M1002,1405.796875 L1002,1445.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M1385,1405.796875 L1385,1445.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<text x="1014.00" y="1429.80" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(233, 237, 241)">15</text>
+</g>
+</g>
+<g id="LABEL-194">
+<text x="601.00" y="1491.82" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(166, 179, 194)">Team</text>
+<g id="SELECT-195">
+<rect x="601.00" y="1506.30" width="383.00" height="40.00" rx="5" fill="rgb(13, 16, 19)"/>
+<path d="M601,1506.296875 L984,1506.296875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M601,1546.296875 L984,1546.296875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M601,1506.296875 L601,1546.296875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M984,1506.296875 L984,1546.296875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<text x="613.00" y="1530.30" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(233, 237, 241)">Network Operations</text>
+</g>
+</g>
+<g id="LABEL-196">
+<text x="1002.00" y="1491.82" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(166, 179, 194)">Severity</text>
+<g id="SELECT-197">
+<rect x="1002.00" y="1506.30" width="383.00" height="40.00" rx="5" fill="rgb(13, 16, 19)"/>
+<path d="M1002,1506.296875 L1385,1506.296875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M1002,1546.296875 L1385,1546.296875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M1002,1506.296875 L1002,1546.296875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M1385,1506.296875 L1385,1546.296875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<text x="1014.00" y="1530.30" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(233, 237, 241)">High</text>
+</g>
+</g>
+</g>
+<g id="LABEL-198">
+<text x="601.00" y="1592.32" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(166, 179, 194)">Incident owner</text>
+<g id="SELECT-199">
+<rect x="601.00" y="1606.80" width="784.00" height="40.00" rx="5" fill="rgb(13, 16, 19)"/>
+<path d="M601,1606.796875 L1385,1606.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M601,1646.796875 L1385,1646.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M601,1606.796875 L601,1646.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M1385,1606.796875 L1385,1646.796875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<text x="613.00" y="1630.80" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(233, 237, 241)">operator@fixpilot.demo</text>
+</g>
+</g>
+<g id="LABEL-200">
+<text x="601.00" y="1674.82" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(166, 179, 194)">Shared update</text>
+<g id="TEXTAREA-201">
+<rect x="601.00" y="1689.30" width="784.00" height="74.78" rx="5" fill="rgb(13, 16, 19)"/>
+<path d="M601,1689.296875 L1385,1689.296875" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M601,1764.078125 L1385,1764.078125" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M601,1689.296875 L601,1764.078125" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<path d="M1385,1689.296875 L1385,1764.078125" fill="none" stroke="rgb(37, 42, 48)" stroke-width="1"/>
+<text x="613.00" y="1712.30" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="11" font-weight="400" fill="rgb(233, 237, 241)">What changed, what we know, and what happens next…</text>
+</g>
+</g>
+<g id="primary-202">
+<rect x="601.00" y="1786.58" width="202.13" height="35.00" rx="7" fill="rgb(112, 80, 210)"/>
+<path d="M601,1786.578125 L803.125,1786.578125" fill="none" stroke="rgb(137, 104, 233)" stroke-width="1"/>
+<path d="M601,1821.578125 L803.125,1821.578125" fill="none" stroke="rgb(137, 104, 233)" stroke-width="1"/>
+<path d="M601,1786.578125 L601,1821.578125" fill="none" stroke="rgb(137, 104, 233)" stroke-width="1"/>
+<path d="M803.125,1786.578125 L803.125,1821.578125" fill="none" stroke="rgb(137, 104, 233)" stroke-width="1"/>
+<g id="lucide-203">
+<svg x="615" y="1797.078125" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="rgb(255, 255, 255)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.536 21.686a.5.5 0 0 0 .937-.024l6.5-19a.496.496 0 0 0-.635-.635l-19 6.5a.5.5 0 0 0-.024.937l7.93 3.18a2 2 0 0 1 1.112 1.11z"></path><path d="m21.854 2.147-10.94 10.939"></path></svg>
+</g>
+<text x="637.00" y="1805.85" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="550" fill="rgb(255, 255, 255)">Publish to all linked reporters</text>
+</g>
+<g id="ops-disclosure-204">
+<text x="601.00" y="1847.78" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(130, 144, 159)">In-app updates only; email, Slack and SMS are not connected. Resolution requires a reviewer and all three recovery signals. Wi-Fi and LMS need their own monitoring</text>
+<text x="601.00" y="1866.78" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(130, 144, 159)">adapter before verified closure.</text>
+</g>
+</g>
+<g id="ops-section-title-205">
+<text x="601.00" y="1912.42" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="550" fill="rgb(233, 237, 241)">Investigation activity</text>
+</g>
+<g id="ops-timeline-206">
+<g id="ARTICLE-207">
+<path d="M604,1935.578125 L604,2030.375" fill="none" stroke="rgb(56, 66, 63)" stroke-width="1"/>
+<g id="timeline-dot-208">
+<rect x="601.00" y="1940.58" width="7.00" height="7.00" rx="50" fill="rgb(38, 58, 55)"/>
+<path d="M601,1940.578125 L608,1940.578125" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,1947.578125 L608,1947.578125" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,1940.578125 L601,1947.578125" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M608,1940.578125 L608,1947.578125" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+</g>
+<g id="DIV-209">
+<g id="TIME-210">
+<text x="620.00" y="1947.96" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)">03:55</text>
+<text x="647.02" y="1947.96" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)"> MYT</text>
+</g>
+<g id="P-211">
+<text x="620.00" y="1973.10" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(183, 195, 208)">Network team is investigating Block A connectivity. Next update in fifteen minutes.</text>
+</g>
+<g id="SMALL-212">
+<text x="620.00" y="2001.26" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(116, 134, 152)">Alex Morgan</text>
+</g>
+</g>
+</g>
+<g id="ARTICLE-213">
+<path d="M604,2030.375 L604,2125.171875" fill="none" stroke="rgb(56, 66, 63)" stroke-width="1"/>
+<g id="timeline-dot-214">
+<rect x="601.00" y="2035.38" width="7.00" height="7.00" rx="50" fill="rgb(38, 58, 55)"/>
+<path d="M601,2035.375 L608,2035.375" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2042.375 L608,2042.375" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2035.375 L601,2042.375" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M608,2035.375 L608,2042.375" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+</g>
+<g id="DIV-215">
+<g id="TIME-216">
+<text x="620.00" y="2042.76" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)">03:55</text>
+<text x="647.02" y="2042.76" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)"> MYT</text>
+</g>
+<g id="P-217">
+<text x="620.00" y="2067.89" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(183, 195, 208)">A related report was linked. 7 reports now share this incident.</text>
+</g>
+<g id="SMALL-218">
+<text x="620.00" y="2096.05" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(116, 134, 152)">FixPilot coordination</text>
+</g>
+</g>
+</g>
+<g id="ARTICLE-219">
+<path d="M604,2125.171875 L604,2219.96875" fill="none" stroke="rgb(56, 66, 63)" stroke-width="1"/>
+<g id="timeline-dot-220">
+<rect x="601.00" y="2130.17" width="7.00" height="7.00" rx="50" fill="rgb(38, 58, 55)"/>
+<path d="M601,2130.171875 L608,2130.171875" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2137.171875 L608,2137.171875" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2130.171875 L601,2137.171875" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M608,2130.171875 L608,2137.171875" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+</g>
+<g id="DIV-221">
+<g id="TIME-222">
+<text x="620.00" y="2137.55" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)">03:46</text>
+<text x="647.02" y="2137.55" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)"> MYT</text>
+</g>
+<g id="P-223">
+<text x="620.00" y="2162.69" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(183, 195, 208)">A related report was linked. 6 reports now share this incident.</text>
+</g>
+<g id="SMALL-224">
+<text x="620.00" y="2190.85" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(116, 134, 152)">FixPilot coordination</text>
+</g>
+</g>
+</g>
+<g id="ARTICLE-225">
+<path d="M604,2219.96875 L604,2314.765625" fill="none" stroke="rgb(56, 66, 63)" stroke-width="1"/>
+<g id="timeline-dot-226">
+<rect x="601.00" y="2224.97" width="7.00" height="7.00" rx="50" fill="rgb(38, 58, 55)"/>
+<path d="M601,2224.96875 L608,2224.96875" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2231.96875 L608,2231.96875" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2224.96875 L601,2231.96875" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M608,2224.96875 L608,2231.96875" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+</g>
+<g id="DIV-227">
+<g id="TIME-228">
+<text x="620.00" y="2232.35" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)">03:46</text>
+<text x="647.02" y="2232.35" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)"> MYT</text>
+</g>
+<g id="P-229">
+<text x="620.00" y="2257.49" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(183, 195, 208)">A related report was linked. 5 reports now share this incident.</text>
+</g>
+<g id="SMALL-230">
+<text x="620.00" y="2285.65" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(116, 134, 152)">FixPilot coordination</text>
+</g>
+</g>
+</g>
+<g id="ARTICLE-231">
+<path d="M604,2314.765625 L604,2409.5625" fill="none" stroke="rgb(56, 66, 63)" stroke-width="1"/>
+<g id="timeline-dot-232">
+<rect x="601.00" y="2319.77" width="7.00" height="7.00" rx="50" fill="rgb(38, 58, 55)"/>
+<path d="M601,2319.765625 L608,2319.765625" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2326.765625 L608,2326.765625" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2319.765625 L601,2326.765625" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M608,2319.765625 L608,2326.765625" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+</g>
+<g id="DIV-233">
+<g id="TIME-234">
+<text x="620.00" y="2327.15" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)">03:46</text>
+<text x="647.02" y="2327.15" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)"> MYT</text>
+</g>
+<g id="P-235">
+<text x="620.00" y="2352.29" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(183, 195, 208)">A related report was linked. 4 reports now share this incident.</text>
+</g>
+<g id="SMALL-236">
+<text x="620.00" y="2380.44" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(116, 134, 152)">FixPilot coordination</text>
+</g>
+</g>
+</g>
+<g id="ARTICLE-237">
+<path d="M604,2409.5625 L604,2504.359375" fill="none" stroke="rgb(56, 66, 63)" stroke-width="1"/>
+<g id="timeline-dot-238">
+<rect x="601.00" y="2414.56" width="7.00" height="7.00" rx="50" fill="rgb(38, 58, 55)"/>
+<path d="M601,2414.5625 L608,2414.5625" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2421.5625 L608,2421.5625" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2414.5625 L601,2421.5625" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M608,2414.5625 L608,2421.5625" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+</g>
+<g id="DIV-239">
+<g id="TIME-240">
+<text x="620.00" y="2421.94" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)">03:45</text>
+<text x="647.02" y="2421.94" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)"> MYT</text>
+</g>
+<g id="P-241">
+<text x="620.00" y="2447.08" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(183, 195, 208)">A related report was linked. 3 reports now share this incident.</text>
+</g>
+<g id="SMALL-242">
+<text x="620.00" y="2475.24" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(116, 134, 152)">FixPilot coordination</text>
+</g>
+</g>
+</g>
+<g id="ARTICLE-243">
+<path d="M604,2504.359375 L604,2599.15625" fill="none" stroke="rgb(56, 66, 63)" stroke-width="1"/>
+<g id="timeline-dot-244">
+<rect x="601.00" y="2509.36" width="7.00" height="7.00" rx="50" fill="rgb(38, 58, 55)"/>
+<path d="M601,2509.359375 L608,2509.359375" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2516.359375 L608,2516.359375" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2509.359375 L601,2516.359375" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M608,2509.359375 L608,2516.359375" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+</g>
+<g id="DIV-245">
+<g id="TIME-246">
+<text x="620.00" y="2516.74" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)">03:45</text>
+<text x="647.02" y="2516.74" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)"> MYT</text>
+</g>
+<g id="P-247">
+<text x="620.00" y="2541.88" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(183, 195, 208)">A related report was linked. 2 reports now share this incident.</text>
+</g>
+<g id="SMALL-248">
+<text x="620.00" y="2570.04" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(116, 134, 152)">FixPilot coordination</text>
+</g>
+</g>
+</g>
+<g id="ARTICLE-249">
+<path d="M604,2599.15625 L604,2693.953125" fill="none" stroke="rgb(56, 66, 63)" stroke-width="1"/>
+<g id="timeline-dot-250">
+<rect x="601.00" y="2604.16" width="7.00" height="7.00" rx="50" fill="rgb(38, 58, 55)"/>
+<path d="M601,2604.15625 L608,2604.15625" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2611.15625 L608,2611.15625" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2604.15625 L601,2611.15625" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M608,2604.15625 L608,2611.15625" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+</g>
+<g id="DIV-251">
+<g id="TIME-252">
+<text x="620.00" y="2611.54" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)">03:45</text>
+<text x="647.02" y="2611.54" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)"> MYT</text>
+</g>
+<g id="P-253">
+<text x="620.00" y="2636.68" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(183, 195, 208)">A related report was linked. 1 reports now share this incident.</text>
+</g>
+<g id="SMALL-254">
+<text x="620.00" y="2664.83" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(116, 134, 152)">FixPilot coordination</text>
+</g>
+</g>
+</g>
+<g id="ARTICLE-255">
+<path d="M604,2693.953125 L604,2788.75" fill="none" stroke="rgb(56, 66, 63)" stroke-width="1"/>
+<g id="timeline-dot-256">
+<rect x="601.00" y="2698.95" width="7.00" height="7.00" rx="50" fill="rgb(38, 58, 55)"/>
+<path d="M601,2698.953125 L608,2698.953125" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2705.953125 L608,2705.953125" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M601,2698.953125 L601,2705.953125" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+<path d="M608,2698.953125 L608,2705.953125" fill="none" stroke="rgb(91, 140, 136)" stroke-width="1"/>
+</g>
+<g id="DIV-257">
+<g id="TIME-258">
+<text x="620.00" y="2706.33" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)">03:45</text>
+<text x="647.02" y="2706.33" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="9" font-weight="400" fill="rgb(162, 151, 193)"> MYT</text>
+</g>
+<g id="P-259">
+<text x="620.00" y="2731.47" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="11" font-weight="400" fill="rgb(183, 195, 208)">Incident created and forwarded to Network Operations. Matched service, symptom, location and 30-minute window.</text>
+</g>
+<g id="SMALL-260">
+<text x="620.00" y="2759.63" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="9" font-weight="400" fill="rgb(116, 134, 152)">FixPilot routing rules</text>
+</g>
+</g>
+</g>
+</g>
+<g id="DETAILS-261">
+<g id="text-button-262">
+<text x="601.00" y="2797.95" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(78, 219, 208)">View original linked reports (</text>
+<text x="729.95" y="2797.95" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(78, 219, 208)">7</text>
+<text x="735.20" y="2797.95" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(78, 219, 208)">)</text>
+</g>
+<g id="BLOCKQUOTE-263">
+<rect x="601.00" y="2813.75" width="784.00" height="105.17" rx="0" fill="rgb(23, 30, 33)"/>
+<path d="M601,2813.75 L601,2918.921875" fill="none" stroke="rgb(61, 119, 114)" stroke-width="2"/>
+<g id="STRONG-264">
+<text x="617.00" y="2837.59" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)">R-8e905c5</text>
+<text x="684.89" y="2837.59" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)"> · </text>
+<text x="693.20" y="2837.59" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)">User report</text>
+</g>
+<g id="P-265">
+<text x="617.00" y="2867.98" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">Wi-Fi connection not working</text>
+<text x="777.36" y="2867.98" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">: </text>
+<text x="783.94" y="2867.98" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">Internet connection unavailable in Block A today.</text>
+</g>
+<g id="SMALL-266">
+<text x="617.00" y="2898.73" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)">Block A</text>
+<text x="652.39" y="2898.73" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)"> · </text>
+<text x="659.41" y="2898.73" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)">03:55</text>
+<text x="687.66" y="2898.73" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)"> MYT</text>
+</g>
+</g>
+<g id="BLOCKQUOTE-267">
+<rect x="601.00" y="2928.92" width="784.00" height="105.17" rx="0" fill="rgb(23, 30, 33)"/>
+<path d="M601,2928.921875 L601,3034.09375" fill="none" stroke="rgb(61, 119, 114)" stroke-width="2"/>
+<g id="STRONG-268">
+<text x="617.00" y="2952.76" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)">R-8a7016d</text>
+<text x="680.53" y="2952.76" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)"> · </text>
+<text x="688.84" y="2952.76" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)">Fixture</text>
+</g>
+<g id="P-269">
+<text x="617.00" y="2983.15" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">Internet unavailable</text>
+<text x="725.14" y="2983.15" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">: </text>
+<text x="731.72" y="2983.15" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">Campus network cannot connect in Block A.</text>
+</g>
+<g id="SMALL-270">
+<text x="617.00" y="3013.90" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)">Block A</text>
+<text x="652.39" y="3013.90" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)"> · </text>
+<text x="659.41" y="3013.90" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)">03:46</text>
+<text x="686.92" y="3013.90" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)"> MYT</text>
+</g>
+</g>
+<g id="BLOCKQUOTE-271">
+<rect x="601.00" y="3044.09" width="784.00" height="105.17" rx="0" fill="rgb(23, 30, 33)"/>
+<path d="M601,3044.09375 L601,3149.265625" fill="none" stroke="rgb(61, 119, 114)" stroke-width="2"/>
+<g id="STRONG-272">
+<text x="617.00" y="3067.93" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)">R-339fcc9</text>
+<text x="680.27" y="3067.93" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)"> · </text>
+<text x="688.58" y="3067.93" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)">Fixture</text>
+</g>
+<g id="P-273">
+<text x="617.00" y="3098.32" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">Cannot connect to campus Wi-Fi</text>
+<text x="796.67" y="3098.32" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">: </text>
+<text x="803.25" y="3098.32" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">Campus network cannot connect in Block A.</text>
+</g>
+<g id="SMALL-274">
+<text x="617.00" y="3129.07" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)">Block A</text>
+<text x="652.39" y="3129.07" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)"> · </text>
+<text x="659.41" y="3129.07" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)">03:46</text>
+<text x="686.92" y="3129.07" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)"> MYT</text>
+</g>
+</g>
+<g id="BLOCKQUOTE-275">
+<rect x="601.00" y="3159.27" width="784.00" height="105.17" rx="0" fill="rgb(23, 30, 33)"/>
+<path d="M601,3159.265625 L601,3264.4375" fill="none" stroke="rgb(61, 119, 114)" stroke-width="2"/>
+<g id="STRONG-276">
+<text x="617.00" y="3183.11" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)">R-9149008</text>
+<text x="683.27" y="3183.11" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)"> · </text>
+<text x="691.58" y="3183.11" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)">Fixture</text>
+</g>
+<g id="P-277">
+<text x="617.00" y="3213.50" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">Wi-Fi not working</text>
+<text x="713.75" y="3213.50" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">: </text>
+<text x="720.33" y="3213.50" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">Campus network cannot connect in Block A.</text>
+</g>
+<g id="SMALL-278">
+<text x="617.00" y="3244.25" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)">Block A</text>
+<text x="652.39" y="3244.25" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)"> · </text>
+<text x="659.41" y="3244.25" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)">03:46</text>
+<text x="686.92" y="3244.25" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)"> MYT</text>
+</g>
+</g>
+<g id="BLOCKQUOTE-279">
+<rect x="601.00" y="3274.44" width="784.00" height="105.17" rx="0" fill="rgb(23, 30, 33)"/>
+<path d="M601,3274.4375 L601,3379.609375" fill="none" stroke="rgb(61, 119, 114)" stroke-width="2"/>
+<g id="STRONG-280">
+<text x="617.00" y="3298.28" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)">R-76da398</text>
+<text x="681.91" y="3298.28" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)"> · </text>
+<text x="690.22" y="3298.28" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)">Fixture</text>
+</g>
+<g id="P-281">
+<text x="617.00" y="3328.67" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">Internet unavailable</text>
+<text x="725.14" y="3328.67" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">: </text>
+<text x="731.72" y="3328.67" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">Campus network cannot connect in Block A.</text>
+</g>
+<g id="SMALL-282">
+<text x="617.00" y="3359.42" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)">Block A</text>
+<text x="652.39" y="3359.42" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)"> · </text>
+<text x="659.41" y="3359.42" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)">03:45</text>
+<text x="687.36" y="3359.42" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)"> MYT</text>
+</g>
+</g>
+<g id="BLOCKQUOTE-283">
+<rect x="601.00" y="3389.61" width="784.00" height="105.17" rx="0" fill="rgb(23, 30, 33)"/>
+<path d="M601,3389.609375 L601,3494.78125" fill="none" stroke="rgb(61, 119, 114)" stroke-width="2"/>
+<g id="STRONG-284">
+<text x="617.00" y="3413.45" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)">R-3ba538e</text>
+<text x="683.94" y="3413.45" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)"> · </text>
+<text x="692.25" y="3413.45" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)">Fixture</text>
+</g>
+<g id="P-285">
+<text x="617.00" y="3443.84" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">Cannot connect to campus Wi-Fi</text>
+<text x="796.67" y="3443.84" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">: </text>
+<text x="803.25" y="3443.84" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">Campus network cannot connect in Block A.</text>
+</g>
+<g id="SMALL-286">
+<text x="617.00" y="3474.59" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)">Block A</text>
+<text x="652.39" y="3474.59" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)"> · </text>
+<text x="659.41" y="3474.59" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)">03:45</text>
+<text x="687.36" y="3474.59" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)"> MYT</text>
+</g>
+</g>
+<g id="BLOCKQUOTE-287">
+<rect x="601.00" y="3504.78" width="784.00" height="105.17" rx="0" fill="rgb(23, 30, 33)"/>
+<path d="M601,3504.78125 L601,3609.953125" fill="none" stroke="rgb(61, 119, 114)" stroke-width="2"/>
+<g id="STRONG-288">
+<text x="617.00" y="3528.62" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)">R-974fb49</text>
+<text x="679.47" y="3528.62" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)"> · </text>
+<text x="687.78" y="3528.62" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="700" fill="rgb(177, 185, 192)">Fixture</text>
+</g>
+<g id="P-289">
+<text x="617.00" y="3559.01" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">Wi-Fi not working</text>
+<text x="713.75" y="3559.01" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">: </text>
+<text x="720.33" y="3559.01" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="12" font-weight="400" fill="rgb(140, 148, 158)">Campus network cannot connect in Block A.</text>
+</g>
+<g id="SMALL-290">
+<text x="617.00" y="3589.76" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)">Block A</text>
+<text x="652.39" y="3589.76" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)"> · </text>
+<text x="659.41" y="3589.76" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)">03:45</text>
+<text x="687.36" y="3589.76" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="10" font-weight="400" fill="rgb(177, 185, 192)"> MYT</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="page-footer-291">
+<path d="M244,2858.75 L1410,2858.75" fill="none" stroke="rgb(36, 43, 50)" stroke-width="1"/>
+<g id="SPAN-292">
+<g id="green-dot-293">
+<rect x="244.00" y="2880.75" width="4.00" height="4.00" rx="50" fill="rgb(165, 229, 133)"/>
+</g>
+<text x="254.00" y="2884.31" font-family="&quot;Geist&quot;, Arial, sans-serif" font-size="8" font-weight="400" fill="rgb(98, 113, 123)">Shared status refreshes every 5 seconds</text>
+</g>
+<g id="SPAN-294">
+<text x="1125.80" y="2883.99" font-family="&quot;IBM Plex Mono&quot;, monospace" font-size="7" font-weight="400" fill="rgb(98, 113, 123)">Fixture data labeled · No claimed accuracy or time savings</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

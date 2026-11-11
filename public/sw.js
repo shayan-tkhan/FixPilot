@@ -1,0 +1,2 @@
+self.addEventListener('push',event=>{let data={};try{data=event.data.json()}catch{}event.waitUntil(self.registration.showNotification(data.title||'FixPilot update',{body:data.body||'Open FixPilot to view your update.',icon:'/icon.svg',badge:'/icon.svg',tag:data.tag,data:{url:data.url||'/operations'}}));});
+self.addEventListener('notificationclick',event=>{event.notification.close();const url=new URL(event.notification.data?.url||'/operations',self.location.origin);if(url.origin!==self.location.origin)return;event.waitUntil(clients.openWindow(url.href));});
