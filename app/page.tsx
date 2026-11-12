@@ -36,6 +36,7 @@ import {
 } from "lucide-react";
 import type { State } from "@/lib/db";
 import type { User } from "@/lib/auth";
+import { accounts } from "@/lib/accounts";
 type Data = {
   preview?: boolean;
   state: State;
@@ -86,8 +87,14 @@ export default function Home() {
   const [source, setSource] = useState("Enterprise manual import");
   const [reference, setReference] = useState("");
   const [email, setEmail] = useState("operator@fixpilot.demo");
-  const [password, setPassword] = useState("");
+  const [password, setPassword] = useState("demo123");
   const [showPassword, setShowPassword] = useState(false);
+  function selectDemoAccount(account: string) {
+    setEmail(account);
+    setPassword("demo123");
+    setShowPassword(false);
+    setError("");
+  }
   async function refresh() {
     try {
       const r = await fetch("/api/state");
@@ -323,27 +330,23 @@ export default function Home() {
             </button>
           </form>
           <div className="account-options">
-            <button onClick={() => setEmail("reporter@fixpilot.demo")}>
+            <button type="button" onClick={() => selectDemoAccount("reporter@fixpilot.demo")}>
               Student / User <ArrowUpRight size={13} />
             </button>
-            <button onClick={() => setEmail("operator@fixpilot.demo")}>
+            <button type="button" onClick={() => selectDemoAccount("operator@fixpilot.demo")}>
               Technician <ArrowUpRight size={13} />
             </button>
-            <button onClick={() => setEmail("reviewer@fixpilot.demo")}>
+            <button type="button" onClick={() => selectDemoAccount("reviewer@fixpilot.demo")}>
               Department Staff <ArrowUpRight size={13} />
             </button>
           </div>
           <details className="demo-accounts">
             <summary>More demo accounts</summary>
-            <button onClick={() => setEmail("reporter2@fixpilot.demo")}>
-              Noor · Second student
-            </button>
-            <button onClick={() => setEmail("reviewer2@fixpilot.demo")}>
-              Priya · Backup reviewer
-            </button>
-            <button onClick={() => setEmail("technician2@fixpilot.demo")}>
-              Riley · Backup technician
-            </button>
+            <div className="demo-account-list">{accounts.filter(account => !["reporter@fixpilot.demo", "operator@fixpilot.demo", "reviewer@fixpilot.demo"].includes(account.id)).map(account => (
+              <button type="button" key={account.id} onClick={() => selectDemoAccount(account.id)}>
+                {account.name} · {account.role === "operator" ? "Technician · " + account.teams[0] : account.role === "reporter" ? "Student" : account.role === "admin" ? "Administrator" : "Department staff"}
+              </button>
+            ))}</div>
           </details>
           {error && (
             <div role="alert" className="error">
@@ -351,7 +354,7 @@ export default function Home() {
             </div>
           )}
           <small className="muted">
-            Demo workspace
+            Demo workspace · Password filled automatically: demo123
             <br />
           </small>
         </div>

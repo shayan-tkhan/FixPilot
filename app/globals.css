@@ -3666,3 +3666,5 @@ progress { display:block; width:100%; height:12px; accent-color:#a688ec; margin:
 .report-evidence-upload { margin:20px 0; }
 .report-evidence-upload input { display:block; max-width:100%; margin-top:12px; }
 @media(max-width:760px) { .service-photo-actions label,.report-evidence-upload label { min-height:48px; padding:14px; white-space:normal; } }
+.demo-account-list { max-height:270px; overflow-y:auto; padding:4px 8px 4px 0; }
+.demo-account-list button { min-height:44px; width:100%; line-height:1.5; white-space:normal; }
