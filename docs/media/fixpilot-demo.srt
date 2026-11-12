@@ -1,0 +1,31 @@
+1
+00:00:00,350 --> 00:00:08,350
+Campus faults get lost in scattered messages. Students cannot see who owns the repair, while staff chase updates across departments.
+
+2
+00:00:09,250 --> 00:00:16,951
+FixPilot starts with one report. A student describes the fault, selects a location, and can attach a photo or video.
+
+3
+00:00:17,851 --> 00:00:28,240
+Staff review the details and possible duplicates, then route the issue. AI suggestions are optional, and unavailable analysis never blocks a manual report.
+
+4
+00:00:29,140 --> 00:00:37,204
+The issue gets a named technician and a repair estimate. Response countdowns flag unanswered assignments, so work has a clear owner.
+
+5
+00:00:38,104 --> 00:00:46,211
+The technician starts work and records progress. Before and after evidence, or a completion note, gives staff something concrete to review.
+
+6
+00:00:47,111 --> 00:00:55,154
+Completing a task does not close it automatically. Department staff inspect the repair and approve it, or return it for more work.
+
+7
+00:00:56,054 --> 00:01:02,902
+The student makes the final check. They confirm the problem is solved, or reopen the same report if it is still broken.
+
+8
+00:01:03,802 --> 00:01:13,253
+One timeline connects every handoff. Campus maps and monthly summaries give staff an overview, without replacing staff review or student confirmation.

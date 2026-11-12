@@ -4,11 +4,13 @@ Campus issue reporting for students, department staff, technicians, and administ
 
 [Open the live demo](https://fixpilot-public-demo.vercel.app/operations)
 
-## Watch the demo
+## Watch the workflow
 
-[Watch the FixPilot demo](https://github.com/shayan-tkhan/FixPilot/blob/main/docs/media/fixpilot-demo.mp4) · [Download the MP4](https://raw.githubusercontent.com/shayan-tkhan/FixPilot/main/docs/media/fixpilot-demo.mp4)
+[Watch the 74-second narrated workflow](https://github.com/shayan-tkhan/FixPilot/blob/main/docs/media/fixpilot-demo.mp4) · [Download the MP4](https://raw.githubusercontent.com/shayan-tkhan/FixPilot/main/docs/media/fixpilot-demo.mp4) · [Download captions](docs/media/fixpilot-demo.srt)
 
-Actual FixPilot screens with explanatory text and music. The guided repair walkthrough is scripted and uses illustrations. Music: [Sascha Ende, ende.app](https://ende.app/en), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The explainer covers lost reports, unclear ownership, missing updates, and repairs closed too early. It follows a fictional leaking-tap report through student intake, staff routing, technician work, independent staff approval, and student confirmation or reopening.
+
+Filmed in an isolated local demo using a completion note; no physical repair or live AI verification is claimed. Includes AI-generated local Kokoro narration, matching on-screen captions, and music by [Sascha Ende, ende.app](https://ende.app/en), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Features
 
