@@ -6,29 +6,9 @@ Campus issue reporting for students, department staff, technicians, and administ
 
 ## Watch the demo
 
-Click the thumbnail to open the **24-second demo**, or [download the MP4](https://raw.githubusercontent.com/shayan-tkhan/FixPilot/main/docs/media/fixpilot-demo.mp4).
-
-[![Watch the FixPilot demo](docs/media/fixpilot-demo.jpg)](https://github.com/shayan-tkhan/FixPilot/blob/main/docs/media/fixpilot-demo.mp4)
+[Watch the FixPilot demo](https://github.com/shayan-tkhan/FixPilot/blob/main/docs/media/fixpilot-demo.mp4) · [Download the MP4](https://raw.githubusercontent.com/shayan-tkhan/FixPilot/main/docs/media/fixpilot-demo.mp4)
 
 Actual FixPilot screens with explanatory text and music. The guided repair walkthrough is scripted and uses illustrations. Music: [Sascha Ende, ende.app](https://ende.app/en), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-## Screenshots
-
-Actual demo screens. Names and sample reports are fictional.
-
-### Staff dashboard
-![Staff dashboard with issue counts and department workload](docs/screenshots/staff-dashboard.jpg)
-
-### Campus and residence map
-![APU campus and residence map with active issue counts](docs/screenshots/campus-map.jpg)
-
-### Department teams
-![Technicians grouped under their departments](docs/screenshots/department-teams.jpg)
-
-### Guided repair walkthrough
-![Scripted before and after evidence demonstration](docs/screenshots/guided-demo.jpg)
-
-[Browse the screenshot gallery](docs/screenshots/README.md)
 
 ## Features
 
